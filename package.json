@@ -10,7 +10,7 @@
   "keywords": [
     "webpack"
   ],
-  "author": "Ilya Marin <imarin@ya.ru>",
+  "author": "Ilya Marin <imarin73@ya.ru>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.5",
